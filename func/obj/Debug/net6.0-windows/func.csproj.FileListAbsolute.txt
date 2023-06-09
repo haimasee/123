@@ -1,0 +1,12 @@
+C:\Users\hreno\source\repos\C++\func\bin\Debug\net6.0-windows\func.deps.json
+C:\Users\hreno\source\repos\C++\func\bin\Debug\net6.0-windows\func.dll
+C:\Users\hreno\source\repos\C++\func\bin\Debug\net6.0-windows\func.pdb
+C:\Users\hreno\source\repos\C++\func\obj\Debug\net6.0-windows\func.csproj.AssemblyReference.cache
+C:\Users\hreno\source\repos\C++\func\obj\Debug\net6.0-windows\func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hreno\source\repos\C++\func\obj\Debug\net6.0-windows\func.AssemblyInfoInputs.cache
+C:\Users\hreno\source\repos\C++\func\obj\Debug\net6.0-windows\func.AssemblyInfo.cs
+C:\Users\hreno\source\repos\C++\func\obj\Debug\net6.0-windows\func.csproj.CoreCompileInputs.cache
+C:\Users\hreno\source\repos\C++\func\obj\Debug\net6.0-windows\func.dll
+C:\Users\hreno\source\repos\C++\func\obj\Debug\net6.0-windows\refint\func.dll
+C:\Users\hreno\source\repos\C++\func\obj\Debug\net6.0-windows\func.pdb
+C:\Users\hreno\source\repos\C++\func\obj\Debug\net6.0-windows\ref\func.dll

@@ -1,0 +1,12 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+    <v:String x:Key="b1">Добавить новый тип</v:String>
+    <v:String x:Key="b2">Добавить</v:String>
+    <v:String x:Key="b3">Изменить</v:String>
+    <v:String x:Key="b4">Удалить</v:String>
+    <v:String x:Key="b5">Добавить</v:String>
+    <v:String x:Key="l1">Имя</v:String>
+    <v:String x:Key="l2">Тип</v:String>
+    <v:String x:Key="l3">Деньга</v:String>
+</ResourceDictionary>
